@@ -1,0 +1,5 @@
+package com.anandhu.PollingAppBackend.config;
+
+public class SecurityConfig {
+
+}

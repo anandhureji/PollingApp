@@ -1,0 +1,5 @@
+package com.anandhu.PollingAppBackend.security;
+
+public interface CurrentUser {
+
+}
